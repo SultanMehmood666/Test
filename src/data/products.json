@@ -1,0 +1,754 @@
+[
+  {
+    "id": "1",
+    "title": "GWADAR SMART PORT CITY MASTER PLAN (2017-2050) MAP ",
+    "logo":"/img/blog/gda-logo.webp",
+    "productImg": "gda.webp",
+    "price": 69,
+    "priceRange": ["Low Budget"],
+    "discount": 5,
+    "country": true,
+    "district": "Mission District Area",
+    "properties": 2,
+    "featured": true,
+    "fileName":"gwadar_micasa_map.pdf",
+    "pdfView": "/MAPS/gwadar_micasa_map.pdf", 
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 3,
+    "saleCount": 5,
+    "category": ["buying", "renting"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "Gawadar, Balochistan, Pakistan",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 3450,
+      "propertyStatus": "For Sale",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 1992
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Dishwasher"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "dha-logo.webp",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Office Villa", "Luxary Home"]
+  },
+  {
+    "id": "2",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "MASTER PLAN OF DHA PHASE 1 TO 5 LAHORE MAP ",
+    "logo": "/img/blog/dha-logo.webp",
+    "productImg": "dha-1-5.webp",
+    "price": 2000000000000000,
+    "priceRange": ["Medium"],
+    "discount": 5,
+    "fileName":"dha_phase_1_to_5_micasa_map.pdf",
+    "pdfView": "/MAPS/dha_phase_1_to_5_micasa_map.pdf", 
+    "country": true,
+    "district": "Pacific Heights Area",
+    "properties": 2,
+    "featured": false,
+    "new": false,
+    "rent": true,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 3,
+    "rating": 4,
+    "saleCount": 10,
+    "category": ["buying"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "variation": [
+      {
+        "color": "brown",
+        "colorCode": "#87554b",
+        "image": "1.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#333333",
+        "image": "2.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 9
+          },
+          {
+            "name": "xxl",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "color": "red",
+        "colorCode": "#da323f",
+        "image": "3.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 1
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 4
+          },
+          {
+            "name": "xxl",
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "Lahore, Punjab, Pakistan",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 3450,
+      "propertyStatus": "For Sale",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 1992
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Kids Zone"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "dha-logo.webp",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["Apartment", "Office Villa", "Luxary Home", "Studio"]
+  },
+  {
+    "id": "3",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "MASTER PLAN OF DHA PHASE 6 & 7 LAHORE MAP ",
+    "logo": "/img/blog/dha-logo.webp",
+    "productImg": "dha-6-7.webp",
+    "fileName":"dha_phase_6_to_7_micasa_map.pdf",
+    "pdfView": "/MAPS/dha_phase_6_to_7_micasa_map.pdf", 
+    "price": 49,
+    "priceRange": ["High Budget"],
+    "discount": 15,
+    "country": false,
+    "district": "Noe Valley Zones",
+    "properties": 3,
+    "featured": false,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 2,
+    "rating": 3,
+    "saleCount": 15,
+    "category": ["buying", "selling"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "Lahore, Punjab, Pakistan",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 3450,
+      "propertyStatus": "For Sale",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 1992
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Floor Coverings"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "dha-logo.webp",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Single Family", "Luxary Home", "Studio"]
+  },
+  {
+    "id": "4",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "MASTER PLAN OF DHA PHASE 8 LAHORE MAP ",
+    "logo": "/img/blog/dha-logo.webp",
+    "productImg": "dha-8.webp",
+    "price": 19,
+    "fileName":"dha_phase_8_micasa_map.pdf",
+    "pdfView": "/MAPS/dha_phase_8_micasa_map.pdf", 
+    "priceRange": ["Medium"],
+    "discount": 10,
+    "country": false,
+    "district": "Mission District Area",
+    "properties": 1,
+    "featured": true,
+    "new": false,
+    "rent": true,
+    "photo": ["buying", "women", "men"],
+    "video": ["buying", "women", "children"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 5,
+    "saleCount": 20,
+    "category": ["buying", "renting"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "Lahore, Punjab, Pakistan",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 3450,
+      "propertyStatus": "For Sale",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 1992
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Floor Coverings"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "dha-logo.webp",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": [
+      "House",
+      "Single Family",
+      "Apartment",
+      "Luxary Home",
+      "Studio"
+    ]
+  },
+  {
+    "id": "5",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "MASTER PLAN OF DHA PHASE 9 LAHORE MAP ",
+    "logo": "/img/blog/dha-logo.webp",
+    "productImg": "dha-9.webp",
+    "fileName":"dha_phase_9_micasa_map.pdf",
+    "pdfView": "/MAPS/dha_phase_9_micasa_map.pdf", 
+    "price": 149,
+    "priceRange": ["Low Budget"],
+    "discount": 5,
+    "country": true,
+    "district": "Mission District Area",
+    "properties": 2,
+    "featured": true,
+    "new": true,
+    "rent": true,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 5,
+    "saleCount": 90,
+    "category": ["buying", "renting"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "Lahore, Punjab, Pakistan",
+    "description": {
+      "title": "Description",
+      "fullDescription": "sultan Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 3450,
+      "propertyStatus": "For Sale",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 1992
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Supermarket"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "dha-logo.webp",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Single Family", "Apartment", "Office Villa"]
+  },
+  {
+    "id": "6",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "MASTER PLAN OF ESTATE LIFE",
+    "logo": "/img/blog/dha-logo.webp",
+    "productImg": "6.jpg",
+    "price": 215,
+    "fileName":"estate_life_micasa_map.pdf",
+    "pdfView": "/MAPS/estate_life_micasa_map.pdf",
+    "priceRange": ["Low"],
+    "discount": 5,
+    "country": true,
+    "district": "Mission District Area",
+    "properties": 2,
+    "featured": true,
+    "new": false,
+    "rent": true,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 2,
+    "rating": 3,
+    "saleCount": 25,
+    "category": ["buying", "selling", "renting"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "Lahore",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 3450,
+      "propertyStatus": "For Sale",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 1992
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Kids Zone"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "dha-logo.webp",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Single Family", "Apartment", "Office Villa"]
+  }
+
+]

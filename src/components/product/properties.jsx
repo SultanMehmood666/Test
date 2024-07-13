@@ -1,0 +1,37 @@
+import Image from "next/image";
+import Link from "next/link";
+
+const PropertyItem = ({ product, slug, baseUrl }) => {
+  const FileAcess = '/api/files'
+  return (
+    <>
+      <div className="ltn__search-by-place-item">
+        <div className="search-by-place-img">
+          <Link href={`/ConstructionWorks`}>
+            <Image src={`/img/product-3/${product.productImg}`} alt="#"  width={500} height={250}/>
+          </Link>
+          <div className="search-by-place-badge">
+            <ul>
+              <li>{2} Properties</li>
+            </ul>
+          </div>
+        </div>
+        <div className="search-by-place-info">
+          <h6>
+            <Link href="/locations">{product.locantion}</Link>
+          </h6>
+          <h4>
+            <Link href={`${baseUrl}/${slug}`}>{product.district}</Link>
+          </h4>
+          <div className="search-by-place-btn">
+            <Link href={`${baseUrl}/${slug}`}>
+              View Property <i className="flaticon-right-arrow"></i>
+            </Link>
+          </div>
+        </div>
+      </div>
+    </>
+  );
+};
+
+export default PropertyItem;

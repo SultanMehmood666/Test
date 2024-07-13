@@ -1,0 +1,7 @@
+1) construction works======>component/product/const-products.jsx 
+data===========> @/data/const-products.json
+
+
+2) map======>component/product/related-products.jsx
+data=========> @/data/product.json
+
