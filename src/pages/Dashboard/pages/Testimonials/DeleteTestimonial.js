@@ -52,7 +52,7 @@ const DeleteTestimonials = () => {
                     <Grid container spacing={2}>
                         {responseData.map((item, index) => (
                             <Grid item xs={12} key={index}>
-                                <Image src={`${FileAcess}/${item.Profile[0].path}`} width={300} height={300} alt={item.title} />
+                                <Image src={`${item.Profile[0].path}`} width={300} height={300} alt={item.title} />
                                 <h3>{item.Title}</h3>
                                 <Grid item xs={12} mt={2}>
                                     <Button variant="contained" color="error" onClick={() => handleDelete(item._id, index)}>Delete</Button>

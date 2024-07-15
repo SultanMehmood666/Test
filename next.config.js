@@ -4,7 +4,7 @@ const CaseSensitivePathsPlugin = require('case-sensitive-paths-webpack-plugin');
 const nextConfig = {
   output: "standalone",
   images: {
-    unoptimized: false,
+    unoptimized: true,
   },
   reactStrictMode: true,
   webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {

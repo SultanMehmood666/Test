@@ -29,6 +29,13 @@ const storage = multer.diskStorage({
 // Set up multer instance with the storage configuration
 const upload = multer({ storage: storage });
 
+export const config = {
+  api: {
+    bodyParser: false // Disabling the built-in body parser for file uploads
+  }
+};
+
+
 // Route handler for handling form data and file uploads
 export default async function(req, resp) {
   try {

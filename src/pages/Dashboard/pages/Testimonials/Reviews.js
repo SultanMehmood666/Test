@@ -29,9 +29,8 @@ const Reviews = () => {
     formData.append('image', image);
     formData.append('description', description);
 
-      const response =  await fetch('https://micasa-server-test.vercel.app/api/Testimonials/Insert',{
+      const response =  await fetch('/api/Testimonials/InsertTestimonialsRoutes',{
       method: "POST",
-      mode: "no-cors",
       body: formData
      }) 
     if (response) {
